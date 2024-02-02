@@ -1,0 +1,17 @@
+---
+date: 2023-10-15
+categories: Notes
+author: Rahul N.
+---
+
+In this chapter, we covered computer networking and securing the network. A network is simply two or more computers linked together to share data, information or resources. There are many types of networks, such as LAN, WAN, [WLAN](https://learn.isc2.org/d2l/le/enhancedSequenceViewer/9541?url=https%3A%2F%2Fbabe4806-440f-4af0-91ac-9d7c60651b42.sequences.api.brightspace.com%2F9541%2Factivity%2F403460%3FfilterOnDatesAndDepth%3D1# "A wireless area network (WLAN) is a group of computers and devices that are located in the same vicinity, forming a network based on radio transmissions rather than wired connections. A Wi-Fi is network is a type of WLAN.") and [VPN](https://learn.isc2.org/d2l/le/enhancedSequenceViewer/9541?url=https%3A%2F%2Fbabe4806-440f-4af0-91ac-9d7c60651b42.sequences.api.brightspace.com%2F9541%2Factivity%2F403460%3FfilterOnDatesAndDepth%3D1# "A virtual private network (VPN), built on top of existing networks, that can provide a secure communications mechanism for transmission between networks."), to name a few. Some of the devices found on a network can be hubs, switches, routers, firewalls, servers, endpoints (e.g., desktop computer, laptop, tablet, mobile phone, VOIP or any other end user device). Other network terms you need to know and understand include ports, protocols, ethernet, Wi-Fi, IP address and MAC address.  
+
+The two models discussed in this chapter are OSI and TCP/IP. The OSI model has seven layers and the TCP/IP four. They both take the 1s and 0s from the physical or network interface layer, where the cables or Wi-Fi connect, to the Application Layer, where users interact with the data. The data traverses the network as packets, with headers or footers being added and removed accordingly as they get passed layer to layer. This helps route the data and ensures packets are not lost and remain together. IPv4 is slowly being phased out by IPv6 to improve security, improve quality of service and support more devices.  
+
+As mentioned, Wi-Fi has replaced many of our wired networks, and with its ease of use, it also brings security issues. Securing Wi-Fi is very important.  
+
+We then learned about some of the attacks on a network, e.g., DoS/DDoS attacks, fragment attacks, oversized packet attacks, spoofing attacks, and man-in-the middle attacks. We also discussed the ports and protocols that connect the network and services that are used on networks, from physical ports, e.g., LAN port, that connect the wires, to logical ports, e.g., 80 or 443, that connect the protocols/services.  
+
+We then examined some possible threats to a network, including spoofing, DoS/DDoS, virus, worm, Trojan, on-path (man-in-the-middle) attack, and side-channel attack. The chapter went on to discuss how to identify threats, e.g., using IDS/NIDS/HIDS or SIEM, and prevent threats, e.g., using antivirus, scans, firewalls, or IPS/NIPS/HIPS. We discussed on-premises data centers and their requirements, e.g., power, HVAC, fire suppression, redundancy and MOU/MOA. We reviewed the cloud and its characteristics, to include service models: SaaS, IaaS and PaaS; and deployment models: public, private, community and hybrid. The importance of an MSP and SLA were also discussed.  
+
+Terminology for network design, to include network segmentation, e.g., microsegmentation and demilitarized zone (DMZ), virtual local area network (VLAN), virtual private network (VPN), defense in depth, zero trust and network access control, were described in great detail.

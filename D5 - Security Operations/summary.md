@@ -1,0 +1,15 @@
+---
+date: 2023-10-15
+categories: Notes
+author: Rahul N.
+---
+
+This chapter focused on the day-to-day, moment-by-moment, use of security controls and risk mitigation strategies in an organization. We discovered ways to secure data and the systems they reside on. Data (information) security as a process and discipline provides a structure for protecting the value of data as the organization creates, stores, shares, uses, modifies, archives and finally destroys that data (known as data handling). During data handling, an organization classifies (assigns data sensitivity levels), categorizes (determines type of data), labels (applies a name to the data), retains (determines how long to keep the data) and destroys (erases or destroys) the data.  
+
+A best practice for securing data is encrypting the data. We explored the process of encrypting data in plaintext with a key and algorithm to create ciphertext then using either the same key (symmetric) or a different key (asymmetric) and same algorithm to decrypt the ciphertext to convert it back to plaintext. Then hashing was methodically described; hashing takes an input set of data (of almost arbitrary size) and returns a fixed-length result called the hash value.  
+
+System hardening is the process of applying secure configurations (to reduce the attack surface) and locking down various hardware, communications systems and software, including operating system, web server, application server, application, etc. We also discussed configuration management, a process and discipline used to ensure that the only changes made to a system are those that have been authorized and validated. Configuration management consists of identification, baseline, change control, and verification and audit. During configuration management, one must conduct inventory, baselines, updates, and patches.  
+
+The following best practice security policies were examined: data handling (appropriate use of data), password (appropriate use of passwords), acceptable use (appropriate use of the assets, devices, and data), bring your own device (appropriate use of personal devices), privacy (appropriate protection of one’s privacy), and change management (appropriate transition from current state to a future state). Change management practices address a common set of core activities: documentation, approval, and rollback. It starts with a request for change (RFC) and moves through various development and test stages until the change is released to the end users. 
+
+We ended the chapter by discussing the importance of security awareness training and how it reduces the internal threat to an organization. By breaking down the levels of security awareness training into education, training, and awareness, we identified that the training can be tailored to the security topic(s), organization, position and/or individual. The module highlighted some of the main threats, including phishing and social engineering and why it's important to include them in your security awareness training programs. We also emphasized the importance of password protection. 

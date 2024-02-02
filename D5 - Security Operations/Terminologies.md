@@ -1,0 +1,72 @@
+---
+date: 2023-10-15
+categories: Notes
+author: Rahul N.
+---
+
+- **Application Server** - A computer responsible for hosting applications to user workstations. *Source: NIST SP 800-82 Rev.2*
+-------------------------------------------------------------------------------
+- **Asymmetric Encryption** - An algorithm that uses one key to encrypt and a different key to decrypt the input plaintext.
+-------------------------------------------------------------------------------
+- **Checksum** - A digit representing the sum of the correct digits in a piece of stored or transmitted digital data, against which later comparisons can be made to detect errors in the data.
+-------------------------------------------------------------------------------
+- **Ciphertext** - The altered form of a plaintext message so it is unreadable for anyone except the intended recipients. In other words, it has been turned into a secret.
+-------------------------------------------------------------------------------
+- **Classification** - Classification identifies the degree of harm to the organization, its stakeholders or others that might result if an information asset is divulged to an unauthorized person, process or organization. In short, classification is focused first and foremost on maintaining the confidentiality of the data, based on the data sensitivity.
+-------------------------------------------------------------------------------
+- **Configuration Management** - A process and discipline used to ensure that the only changes made to a system are those that have been authorized and validated.
+-------------------------------------------------------------------------------
+- **Cryptanalyst** - One who performs cryptanalysis which is the study of mathematical techniques for attempting to defeat cryptographic techniques and/or information systems security. This includes the process of looking for errors or weaknesses in the implementation of an algorithm or of the algorithm itself.
+-------------------------------------------------------------------------------
+- **Cryptography** - The study or applications of methods to secure or protect the meaning and content of messages, files, or other information, usually by disguise, obscuration, or other transformations of that content and meaning.
+-------------------------------------------------------------------------------
+- **Data Loss Prevention (DLP)** - System capabilities designed to detect and prevent the unauthorized use and transmission of information.
+-------------------------------------------------------------------------------
+- **Decryption** - The reverse process from encryption. It is the process of converting a ciphertext message back into plaintext through the use of the cryptographic algorithm and the appropriate key for decryption (which is the same for symmetric encryption, but different for asymmetric encryption). This term is also used interchangeably with the “deciphering.”
+-------------------------------------------------------------------------------
+- **Degaussing** - A technique of erasing data on disk or tape (including video tapes) that, when performed properly, ensures that there is insufficient magnetic remanence to reconstruct data.
+-------------------------------------------------------------------------------
+- **Digital Signature** - The result of a cryptographic transformation of data which, when properly implemented, provides the services of origin authentication, data integrity, and signer non-repudiation. *Source: NIST SP 800-12 Rev. 1*
+-------------------------------------------------------------------------------
+- **Egress Monitoring** - Monitoring of outgoing network traffic.
+-------------------------------------------------------------------------------
+- **Encryption** - The process and act of converting the message from its plaintext to ciphertext. Sometimes it is also referred to as enciphering. The two terms are sometimes used interchangeably in literature and have similar meanings.
+-------------------------------------------------------------------------------
+- **Encryption System** - The total set of algorithms, processes, hardware, software, and procedures that taken together provide an encryption and decryption capability.
+-------------------------------------------------------------------------------
+- **Hardening** - A reference to the process of applying secure configurations (to reduce the attack surface) and locking down various hardware, communications systems, and software, including operating system, web server, application server, application, etc. Hardening is normally performed based on industry guidelines and benchmarks, such as those provided by the Center for Internet Security (CIS).
+-------------------------------------------------------------------------------
+- **Hash Function** - An algorithm that computes a numerical value (called the hash value) on a data file or electronic message that is used to represent that file or message and depends on the entire contents of the file or message. A hash function can be considered to be a fingerprint of the file or message. *Source: NIST SP 800-152*
+-------------------------------------------------------------------------------
+- **Hashing** - The process of using a mathematical algorithm against data to produce a numeric value that is representative of that data. *Source CNSSI 4009-2015*
+-------------------------------------------------------------------------------
+- **Ingress Monitoring** - Monitoring of incoming network traffic.
+-------------------------------------------------------------------------------
+- **Message Digest** - A digital signature that uniquely identifies data and has the property such that changing a single bit in the data will cause a completely different message digest to be generated. *Source: NISTIR-8011 Vol.3*
+-------------------------------------------------------------------------------
+- **Operating System** - The software “master control application” that runs the computer. It is the first program loaded when the computer is turned on, and its main component, the kernel, resides in memory at all times. The operating system sets the standards for all application programs (such as the Web server) that run in the computer. The applications communicate with the operating system for most user interface and file management operations. *Source: NIST SP 800-44 Version 2*
+-------------------------------------------------------------------------------
+- **Patch** - A software component that, when installed, directly modifies files or device settings related to a different software component without changing the version number or release details for the related software component. *Source: ISO/IEC 19770-2*
+-------------------------------------------------------------------------------
+- **Patch Management** - The systematic notification, identification, deployment, installation and verification of operating system and application software code revisions. These revisions are known as patches, hot fixes, and service packs. *Source: CNSSI 4009*
+-------------------------------------------------------------------------------
+- **Plaintext** - A message or data in its natural format and in readable form; extremely vulnerable from a confidentiality perspective.
+-------------------------------------------------------------------------------
+- **Records** - The recordings (automated and/or manual) of evidence of activities performed or results achieved (e.g., forms, reports, test results), which serve as a basis for verifying that the organization and the information system are performing as intended. Also used to refer to units of related data fields (i.e., groups of data fields that can be accessed by a program and that contain the complete set of information on particular items). *Source: NIST SP 800-53 Rev. 4*
+-------------------------------------------------------------------------------
+- **Records Retention** - A practice based on the records life cycle, according to which records are retained as long as necessary, and then are destroyed after the appropriate time interval has elapsed.
+-------------------------------------------------------------------------------
+- **Remanence** - Residual information remaining on storage media after clearing. *Source: NIST SP 800-88 Rev. 1*
+-------------------------------------------------------------------------------
+- **Request for Change (RFC)** - The first stage of change management, wherein a change in procedure or product is sought by a stakeholder.
+-------------------------------------------------------------------------------
+- **Security Governance** - The entirety of the policies, roles, and processes the organization uses to make security decisions in an organization.
+-------------------------------------------------------------------------------
+- **Social Engineering** - Tactics to infiltrate systems via email, phone, text, or social media, often impersonating a person or agency in authority or offering a gift. A low-tech method would be simply following someone into a secure building.
+-------------------------------------------------------------------------------
+- **Symmetric Encryption** - An algorithm that uses the same key in both the encryption and the decryption processes.
+-------------------------------------------------------------------------------
+- **Web Server** - A computer that provides World Wide Web (WWW) services on the Internet. It includes the hardware, operating system, Web server software, and Web site content (Web pages). If the Web server is used internally and not by the public, it may be known as an “intranet server.” *Source: NIST SP 800-44 Version 2*
+-------------------------------------------------------------------------------
+- **Whaling Attack** - Phishing attacks that attempt to trick highly placed officials or private individuals with sizable assets into authorizing large fund wire transfers to previously unknown entities.
+-------------------------------------------------------------------------------
