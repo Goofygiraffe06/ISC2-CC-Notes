@@ -1,8 +1,3 @@
----
-date: 2023-10-15
-categories: Notes
-author: Rahul N.
----
 
 In this chapter, we covered computer networking and securing the network. A network is simply two or more computers linked together to share data, information or resources. There are many types of networks, such as LAN, WAN, [WLAN](https://learn.isc2.org/d2l/le/enhancedSequenceViewer/9541?url=https%3A%2F%2Fbabe4806-440f-4af0-91ac-9d7c60651b42.sequences.api.brightspace.com%2F9541%2Factivity%2F403460%3FfilterOnDatesAndDepth%3D1# "A wireless area network (WLAN) is a group of computers and devices that are located in the same vicinity, forming a network based on radio transmissions rather than wired connections. A Wi-Fi is network is a type of WLAN.") and [VPN](https://learn.isc2.org/d2l/le/enhancedSequenceViewer/9541?url=https%3A%2F%2Fbabe4806-440f-4af0-91ac-9d7c60651b42.sequences.api.brightspace.com%2F9541%2Factivity%2F403460%3FfilterOnDatesAndDepth%3D1# "A virtual private network (VPN), built on top of existing networks, that can provide a secure communications mechanism for transmission between networks."), to name a few. Some of the devices found on a network can be hubs, switches, routers, firewalls, servers, endpoints (e.g., desktop computer, laptop, tablet, mobile phone, VOIP or any other end user device). Other network terms you need to know and understand include ports, protocols, ethernet, Wi-Fi, IP address and MAC address.  
 

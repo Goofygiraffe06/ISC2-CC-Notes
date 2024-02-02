@@ -1,8 +1,3 @@
----
-date: 2023-10-15
-categories: Notes
-author: Rahul N.
----
 
 - **Application programming interface (API)** - A set of routines, standards, protocols, and tools for building software applications to access a web-based software application or web tool.
 - -------------------------------------------------------------------------------

@@ -1,8 +1,3 @@
----
-date: 2023-10-15
-categories: Notes
-author: Rahul N.
----
 
 - **Adverse Events**: Events with a negative consequence, such as system crashes, network packet floods, unauthorized use of system privileges, defacement of a web page or execution of malicious code that destroys data.
 -------------------------------------------------------------------------------

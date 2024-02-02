@@ -1,8 +1,3 @@
----
-date: 2023-10-15
-categories: Notes
-author: Rahul N.
----
 
 - **Application Server** - A computer responsible for hosting applications to user workstations. *Source: NIST SP 800-82 Rev.2*
 -------------------------------------------------------------------------------

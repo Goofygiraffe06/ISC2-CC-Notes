@@ -1,8 +1,3 @@
----
-date: 2023-10-15
-categories: Notes
-author: Rahul N.
----
 
 - **Adequate Security** - Security commensurate with the risk and the magnitude of harm resulting from the loss, misuse or unauthorized access to or modification of information. Source: OMB Circular A-130
 -------------------------------------------------------------------------------

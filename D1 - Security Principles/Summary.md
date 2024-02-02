@@ -1,8 +1,3 @@
----
-date: 2023-10-15
-categories: Notes
-author: Rahul N.
----
 
 In this chapter, we covered security principles, starting with concepts of information assurance. We highlighted the CIA triad as the primary components of information assurance. The “C” stands for confidentiality; we must protect the data that needs protection and prevent access to unauthorized individuals. The “I” represents integrity; we must ensure the data has not been altered in an unauthorized manner. The “A” symbolizes availability; we must make sure data is accessible to authorized users when and where it is needed, and in the form and format that is required. We also discussed the importance of privacy, authentication, non-repudiation and authorization. 
 
